@@ -226,6 +226,13 @@
 }
 /*** Navbar End ***/
 
+/*** Profile Image Start ***/
+.profile-img {
+    height: 320px;
+    object-fit: cover;
+}
+/*** Profile Image End ***/
+
 
 /*** About Start ***/
 .about-content .about-img {
